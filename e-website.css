@@ -1,0 +1,38 @@
+body {
+	color: black;
+	font-family: 'Bree Serif', serif;
+	background-image:url("itsstillhere2.jpg");
+	background-size:cover;
+	text-shadow: 1px 1px white;
+}
+
+li, h1, h2 {
+	opacity: 0.75;
+}
+	
+.top-list {
+	
+	position: relative;
+	float: right;
+	padding: 15;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+
+}
+
+#installations-list {
+		font-size: 180%;
+}
+
+img {
+	height: 300px;
+}
+
+table, th, td {
+		background-color: tan;
+		border: 5px outset gray;
+		text-align: center;
+}
